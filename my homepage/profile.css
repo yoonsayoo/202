@@ -1,0 +1,19 @@
+.profile {
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+    position: relative;
+    text-align: left;
+  }
+
+  .information {
+    line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    text-size-adjust: auto;
+    font-size: 1vw;
+    font-weight: auto;
+  }
