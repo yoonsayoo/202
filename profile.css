@@ -1,0 +1,37 @@
+.profile {
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+    position: relative;
+    text-align: left;
+  }
+
+  .information {
+    line-height: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    text-size-adjust: auto;
+    font-size: 1vw;
+    font-weight: auto;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu_bar {
+    background-color: white;
+}
+
+.menu_bar a {
+    padding: 1vw;
+    display: inline-block;
+}
+
+.munu_bar a:hover {
+    background-color: #000;
+}
